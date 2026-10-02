@@ -1,0 +1,5 @@
+model,tv8_input,psnr,ssim
+baseline,unmatched (own),30.28262574408504,0.9677251969207171
+histmatch,matched (own),28.873433585836278,0.9592420833109101
+baseline,matched (cross-check),19.526659276368516,0.8393535936873581
+histmatch,unmatched (cross-check),20.33892682626165,0.8007841633228203
